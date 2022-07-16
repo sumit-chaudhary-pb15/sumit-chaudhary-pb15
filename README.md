@@ -11,8 +11,14 @@ Data Scientist based in Mumbai, India with 6 years of industrial experience in s
 - AI/ML libraries: Tensorflow, Sk-learn
 - Cloud: AWS
 
-## 
-- 🔭 I’m currently working on this page. 
+## Additional information
+- 🔭 I’m currently working on extracting product reviews from amazon
+- 🌱 I’m currently learning natural language processing 
+- 👯 I want to collaborate on extracting news from different websites
+- 💬 Ask me about problem solving through data science techniques 
+
+## Example projects 
+
 
 
 
