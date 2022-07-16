@@ -18,7 +18,7 @@ Data Scientist based in Mumbai, India with 6 years of industrial experience in s
 - 💬 Ask me about problem solving through data science techniques 
 
 ## Example projects 
-(https://github.com/sumit-chaudhary-pb15/sumit-chaudhary-pb15/blob/main/flower_app.PNG)
+< img src="https://github.com/sumit-chaudhary-pb15/sumit-chaudhary-pb15/blob/main/flower_app.PNG" width="256 />
 
 
 
