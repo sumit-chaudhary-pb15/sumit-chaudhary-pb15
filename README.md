@@ -17,6 +17,9 @@ Data Scientist based in Mumbai, India with 6 years of industrial experience in s
 - 👯 I want to collaborate on extracting news from different websites
 - 💬 Ask me about problem solving through data science techniques 
 
+## Github Stats
+[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-chaudhary-pb15)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Example projects 
 <img src="https://github.com/sumit-chaudhary-pb15/sumit-chaudhary-pb15/blob/main/flower_app.PNG" width=256 />
 
