@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Sumit Chaudhary
+# Hi there 👋, I'm Sumit Chaudhary
 Data Scientist based in Mumbai, India with 6 years of industrial experience in solving business problems using AI/ML. Along with training models, also experienced in deployment, testing and delivering intelligent models in production. I've helped organizations to gain useful insights from data and make better data-driven decisions as we all know Data never lies!
 
 ## Skills
@@ -17,10 +17,10 @@ Data Scientist based in Mumbai, India with 6 years of industrial experience in s
 - 👯 I want to collaborate on extracting news from different websites
 - 💬 Ask me about problem solving through data science techniques 
 
-## Github Stats
-[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-chaudhary-pb15)](https://github.com/anuraghazra/github-readme-stats)
+## ⚡ GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-chaudhary-pb15&hide=contribs,prs)
 
-## Example projects 
+## 📕 Example Projects 
 <img src="https://github.com/sumit-chaudhary-pb15/sumit-chaudhary-pb15/blob/main/flower_app.PNG" width=256 />
 
 
