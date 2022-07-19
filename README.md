@@ -8,10 +8,8 @@ Data Scientist based in Mumbai, India with 6 years of industrial experience in s
 - 💬 Ask me about problem solving through data science techniques 
 
 ## Skills
-- Programming languages: 
-[![My Skills](https://skillicons.dev/icons?i=python,c,postgres&theme=dark)](https://skillicons.dev)
-- 
-- IDE: Visual Studio, PyCharm Jupyter Notebook
+- 👩‍💻 Languages: [![My Skills](https://skillicons.dev/icons?i=python,c,postgres,visualstudio)](https://skillicons.dev)
+- 🔌 IDE: Visual Studio, PyCharm Jupyter Notebook
 - Dashboards: Streamlit, ipywidgets, Plotly, Power BI, SAS VA, Sight Machine,
 - ETL libraries: Kedro, Pandas, Numpy
 - Development tools: GIT, JIRA
