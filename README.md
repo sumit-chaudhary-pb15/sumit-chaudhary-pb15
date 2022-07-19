@@ -18,10 +18,12 @@ Data Scientist based in Mumbai, India with 6 years of industrial experience in s
 - 💬 Ask me about problem solving through data science techniques 
 
 ## ⚡ GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-chaudhary-pb15&hide=contribs,prs)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-chaudhary-pb15&show_icons=true&theme=radical)
 
 ## 📕 Example Projects 
 <img src="https://github.com/sumit-chaudhary-pb15/sumit-chaudhary-pb15/blob/main/flower_app.PNG" width=256 />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 
