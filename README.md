@@ -8,7 +8,8 @@ Data Scientist based in Mumbai, India with 6 years of industrial experience in s
 - 💬 Ask me about problem solving through data science techniques 
 
 ## Skills
-- Languages: Python, C, SQL, MatLab - IDE: Visual Studio, PyCharm Jupyter Notebook
+- Languages: Python, C, SQL, MatLab 
+- IDE: Visual Studio, PyCharm Jupyter Notebook
 - Dashboards: Streamlit, ipywidgets, Plotly, Power BI, SAS VA, Sight Machine,
 - ETL libraries: Kedro, Pandas, Numpy
 - Development tools: GIT, JIRA
